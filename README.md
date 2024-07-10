@@ -1,0 +1,3 @@
+# ArgoCD Manifests For Node.js App
+
+## This "ArgoCD Manifests For Node.js App" repository is an integral part of the "[Deploy a Node.js App using Jenkins and ArgoCD on Ubuntu](https://github.com/awsaf-utm/Deploy-a-Node.js-App-using-Jenkins-and-ArgoCD-on-Ubuntu)" project. It houses the necessary manifests and configuration files to facilitate continuous deployment. By leveraging Jenkins for continuous integration and ArgoCD for continuous deployment, this repository enables a seamless, automated pipeline for deploying Node.js applications on an Ubuntu environment. 
